@@ -28,3 +28,5 @@ Build a Responsive website in a weak to showcase the following:
 ![Game](src/01.png)
 * **Student Information**
 ![Game](src/02.png)
+* **TimeTable**
+![Game](src/03.png)
